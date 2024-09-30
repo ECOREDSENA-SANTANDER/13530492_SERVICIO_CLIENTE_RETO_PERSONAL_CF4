@@ -2,7 +2,7 @@
 .curso-main-container.pb-3
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
-    p.mb-5 La comunicación es el proceso más importante a la hora de realizar una buena atención al cliente, entender los tipos de comunicaciones y las ventajas que puede representar para dar una buena atención, adicionalmente en este componente se tratan temas de apariencia personal y valores organizacionales.
+    p.mb-5 Para garantizar un servicio al cliente de calidad es necesario conocer los principio y factores que determinan la calidad y la política de calidad, a través de la trazabilidad que se le pueda dar al servicio y la atención perfecta es posible garantizar la calidad del servicio y tanto la empresa como el trabajador pueden recibir buenos comentarios y una calificación perfecta. En el siguiente diagrama se presentan los contenidos más importantes del componente formativo. 
     .row.justify-content-center
       .col-lg-10.mb-5
         figure

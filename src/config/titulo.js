@@ -1,1 +1,2 @@
-module.exports = 'Conexión exitosa con el cliente'
+module.exports =
+  'Calidad como garantía de la excelencia en el servicio al cliente'
