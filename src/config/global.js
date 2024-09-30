@@ -1,9 +1,10 @@
 export default {
   global: {
-    componenteFormativo: 'NOMBRE DEL COMPONENTE FORMATIVO',
-    descripcionCurso: 'BREVE DESCRIPCIÓN',
-    imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
-    fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
+    componenteFormativo: 'Conexión exitosa con el cliente',
+    descripcionCurso:
+      'Para prestar un buen servicio al cliente, es primordial entender la comunicación y los tipos que existen, con el fin de utilizarlos como herramientas a la hora de prestar alguna atención. La presentación personal y los valores organizacionales representan características que pueden llegar a marcar la diferencia en temas de atención al cliente.',
+    imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
+    fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.svg'),
     imagenesDecorativasBanner: [
       {
         clases: ['banner-principal-decorativo-1', 'd-none', 'd-lg-block'],
@@ -12,6 +13,10 @@ export default {
       {
         clases: ['banner-principal-decorativo-2'],
         imagen: require('@/assets/curso/portada/banner-principal-decorativo-2.svg'),
+      },
+      {
+        clases: ['banner-principal-decorativo-3'],
+        imagen: require('@/assets/curso/portada/banner-principal-decorativo-3.svg'),
       },
     ],
   },
@@ -31,13 +36,18 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'La comunicación',
         desarrolloContenidos: true,
         subMenu: [
           {
             numero: '1.1',
-            titulo: 'Titulo de segundo nivel',
+            titulo: 'Conceptualización',
             hash: 't_1_1',
+          },
+          {
+            numero: '1.2',
+            titulo: 'Comunicación exitosa: cualidades personales',
+            hash: 't_1_2',
           },
         ],
       },
@@ -45,14 +55,69 @@ export default {
       {
         nombreRuta: 'tema2',
         numero: '2',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Tipos de comunicación',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '2.1',
+            titulo: 'La comunicación verbal o lingüística',
+            hash: 't_2_1',
+          },
+          {
+            numero: '2.2',
+            titulo: 'Comunicación escrita',
+            hash: 't_2_2',
+          },
+          {
+            numero: '2.3',
+            titulo: 'Principios básicos en la comunicación verbal',
+            hash: 't_2_3',
+          },
+          {
+            numero: '2.4',
+            titulo: 'La comunicación no verbal',
+            hash: 't_2_4',
+          },
+          {
+            numero: '2.5',
+            titulo: 'Comunicación asertiva',
+            hash: 't_2_5',
+          },
+          {
+            numero: '2.6',
+            titulo: 'Escucha activa',
+            hash: 't_2_6',
+          },
+          {
+            numero: '2.7',
+            titulo: 'Protocolo y etiqueta empresarial',
+            hash: 't_2_7',
+          },
+        ],
       },
       {
         nombreRuta: 'tema3',
         numero: '3',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Imagen y apariencia personal (imagen profesional)',
         desarrolloContenidos: true,
+      },
+      {
+        nombreRuta: 'tema4',
+        numero: '4',
+        titulo: 'Valores organizacionales',
+        desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '4.1',
+            titulo: 'Beneficios de los valores organizacionales',
+            hash: 't_4_1',
+          },
+          {
+            numero: '4.2',
+            titulo: 'Compromiso organizativo',
+            hash: 't_4_2',
+          },
+        ],
       },
     ],
     subMenu: [
@@ -62,21 +127,16 @@ export default {
         nombreRuta: 'sintesis',
         desarrolloContenidos: true,
       },
-      {
+      /* {
         nombreRuta: 'actividad',
         icono: 'far fa-question-circle',
         titulo: 'Actividad didáctica',
         desarrolloContenidos: true,
-      },
+      }, */
       {
         nombreRuta: 'glosario',
         icono: 'fas fa-sort-alpha-down',
         titulo: 'Glosario',
-      },
-      {
-        nombreRuta: 'complementario',
-        icono: 'far fa-folder-open',
-        titulo: 'Material complementario',
       },
       {
         icono: 'fas fa-book',
@@ -116,18 +176,83 @@ export default {
   ],
   glosario: [
     {
-      termino: 'Término',
-      significado: 'Texto de la definición',
+      termino: 'Accesibilidad',
+      significado:
+        'accesible. (Del lat. accesibĭlis). La accesibilidad es el grado en el que todas las personas pueden utilizar un objeto, visitar un lugar o acceder a un servicio, independientemente de sus capacidades.',
     },
     {
-      termino: '<em>Término con extranjerismo</em>',
-      significado: 'Definición',
+      termino: 'Brevedad',
+      significado: 'centrarse en el tema.',
+    },
+    {
+      termino: 'Claridad',
+      significado:
+        'evitar palabras ostentosas o expresiones técnicas y emplear párrafos y frases cortas.',
+    },
+    {
+      termino: 'Comprensión',
+      significado:
+        'acción de comprender. Facultad, capacidad o perspicacia para entender y penetrar las cosas. Actitud comprensiva o tolerante. Conjunto de cualidades que integran una idea.',
+    },
+    {
+      termino: 'Comprensión',
+      significado: 'humanidad, sentimientos y raciocinio.',
+    },
+    {
+      termino: 'Cortesía',
+      significado:
+        'demostración o acto con que se manifiesta la atención, respeto o afecto que tiene alguien a otra persona.',
+    },
+    {
+      termino: 'Tangibles',
+      significado:
+        'que se puede percibir de manera precisa. Resultados tangibles.',
     },
   ],
   referencias: [
     {
-      referencia: '',
-      link: '',
+      referencia:
+        'Aguilar, J. y Vargas, J. E. (2010). Comunicación asertiva. Network de Psicología Organizacional. México: Asociación Oaxaqueña de Psicología A.C.',
+    },
+
+    {
+      referencia:
+        'Baró, T. (2012). La gran guía del lenguaje no verbal. España: Editorial Paidós.',
+    },
+
+    {
+      referencia:
+        'Beverly, H. (2000). Sea Asertivo. México: Ediciones Gestión.',
+    },
+
+    {
+      referencia:
+        'Byrne, B. (1998). Psicología Social. Barcelona, España: Prentice Hall.',
+    },
+
+    {
+      referencia:
+        'Escuela para el Desarrollo Comercial para Tecnólogos. (2008). Manual de técnicas comerciales. España: Autor.',
+    },
+
+    {
+      referencia:
+        'Jimenez, J. El valor de los valores en las organizaciones. (3a ed.). Caracas 2010.',
+    },
+
+    {
+      referencia:
+        'Mehrabian, A. (2009). Nonverbal Communication. Estados Unidos: Aldine transaction.',
+    },
+    {
+      referencia:
+        'Muñoz, M. (2010). Protocolo y relaciones públicas. Madrid, España: Ediciones Paraninfo.',
+    },
+
+    {
+      referencia:
+        'Real Academia Española. (2015). Comunicación. Consultado el 16 de julio 2015, en http://lema.rae.es/drae/?val=comunicacion',
+      link: ' http://lema.rae.es/drae/?val=comunicacion',
     },
   ],
   creditos: [
@@ -136,13 +261,13 @@ export default {
       autores: [
         {
           nombre: 'Milady Tatiana Villamil Castellanos',
-          cargo: 'Responsable del Ecosistema',
-          centro: 'Dirección General',
+          cargo: 'Responsable del ecosistema',
+          centro: 'Dirección general',
         },
         {
-          nombre: 'Olga Constanza Bermúdez Jaimes',
-          cargo: 'Responsable de Línea de Producción',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+          nombre: 'Claudia Johanna Gómez Pérez',
+          cargo: 'Responsable de línea de producción',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
       ],
     },
@@ -150,9 +275,34 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Nombre del rol',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+          nombre: 'José Luis Aguilar Camacho',
+          cargo: '--',
+          centro: '--',
+        },
+        {
+          nombre: 'Marina Jaramillo Portillo',
+          cargo: '--',
+          centro: '--',
+        },
+        {
+          nombre: 'Lucy Yaneth Rache Pérez',
+          cargo: '--',
+          centro: '--',
+        },
+        {
+          nombre: 'Elsa Vargas Báez',
+          cargo: '--',
+          centro: '--',
+        },
+        {
+          nombre: 'Luz Clarena Arias González ',
+          cargo: '--',
+          centro: '--',
+        },
+        {
+          nombre: 'Carolina Jiménez',
+          cargo: 'Evaluadora instruccional ',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
       ],
     },
@@ -160,24 +310,19 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Diseñador de Contenidos Digitales',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+          nombre: 'Yazmin Rocio Figueroa Pacheco',
+          cargo: 'Diseñadora web',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Desarrollador Fullstack',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+          nombre: 'Lizeth Karina Manchego Suarez',
+          cargo: 'Desarrolladora <i>full-stack</i>',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
         {
-          nombre: 'Nombre',
-          cargo: 'Animador y Producción audiovisual',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
-        },
-        {
-          nombre: 'Nombre',
-          cargo: 'Actividad Didáctica',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+          nombre: 'María Alejandra Vera Briceño',
+          cargo: 'Animadora y productora multimedia',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
       ],
     },
@@ -185,24 +330,14 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Luis Gabriel Urueta Alvarez',
-          cargo: 'Validador de Recursos Educativos Digitales',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+          nombre: '--',
+          cargo: 'Validadora de recursos educativos digitales',
+          centro: 'Regional Santander - Centro Agroturístico',
         },
         {
-          nombre: 'Jaime Hernan Tejada',
-          cargo: 'Validador de Recursos Educativos Digitales',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
-        },
-        {
-          nombre: 'Daniel Ricardo Mutis Gómez',
-          cargo: 'Evaluador para contenidos inclusivos y accesibles',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
-        },
-        {
-          nombre: 'Margarita Marcela Medrano',
-          cargo: 'Evaluador para contenidos inclusivos y accesibles',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+          nombre: '--',
+          cargo: 'Evaluadora para contenidos inclusivos y accesibles',
+          centro: 'Regional Santander - Centro Agroturístico',
         },
       ],
     },
@@ -213,25 +348,4 @@ export default {
     creativeCommons:
       'Licencia creative commons CC BY-NC-SA<br><a href="https://creativecommons.org/licenses/by-nc-sa/2.0/" target="_blank">ver licencia</a>',
   },
-  // creditosInicio: [
-  //   {
-  //     titulo: 'En alianza',
-  //     contenido: [
-  //       require('@/assets/template/logo-sena-naranja.svg'),
-  //       require('@/assets/template/mintic.jpg'),
-  //       require('@/assets/template/minsalud.jpg'),
-  //     ],
-  //   },
-  //   {
-  //     titulo: 'En compañía',
-  //     contenido: [
-  //       require('@/assets/template/presidencia.jpg'),
-  //       require('@/assets/template/ecopetrol.jpg'),
-  //     ],
-  //   },
-  //   {
-  //     titulo: 'Una iniciativa',
-  //     contenido: [require('@/assets/template/santander.jpg')],
-  //   },
-  // ],
 }
