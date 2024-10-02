@@ -213,6 +213,10 @@
       border-radius: 20px;
 .tarjeta.color-primario-cus
   background-color: #FFEBC7
+.tarjeta.color-primario-cus-2
+  background-color: #FFDEA1
+.tarjeta.color-primario-cus-3
+  background-color: #F6A6A2
 .slyder-a__btn--sigt, .slyder-a__btn--atrs
   background-color: #4045AB !important;
   border: 0 !important;
@@ -255,14 +259,14 @@
     left: 35px
     width: calc( 100% - 60px)
     height: 100%
-    background-color: #F6CCB3
+    background-color: #FFEAE9
 
   @media (max-width: 1000px)
     padding-right: 2rem
 
 .crd--first-2, .crd--last-2
   &::before 
-    background-color: #F6CCB3 !important
+    background-color: #FFEAE9 !important
 
 .crd--first-2
   &::before 
@@ -282,6 +286,12 @@
     width: auto !important
 .h-card-2
     height: 420px;
+
+.tarjeta.color-primario-cus
+    background-color: #FFBD45;
+.h-card-3
+    height: 350px;
+
 /*Media Queries*/  
 //// DESKTOP SMALL 1400--------------------------------------
 @media screen and (max-width: $bp-min-xxl)
@@ -318,6 +328,20 @@
       height: 100%
   .py-cus
     padding: 1rem !important;
+  .h-card-3
+    height: auto
+  .tarjeta.color-primario-cus-3,
+  .tarjeta.color-primario-cus-2
+    border-radius: 20px;
+  .crd--avatarHorizontal-2
+    position: relative
+    padding: 1rem
+    margin-bottom: 0
+    border-radius: 37px
+    
+    &::before  
+      left: 0
+      width: auto
 //// TABLET MINI 768--------------------------------------
 @media screen and (max-width: $bp-min-md)
   .mb-cus
@@ -327,6 +351,8 @@
     padding-bottom: 1rem !important;
   .h-card
     height: 200px;
+  .h-card-3
+    height: auto
   .crd--avatarHorizontal
     position: initial
     margin: 1rem;
@@ -343,7 +369,18 @@
       height: 100%
   .py-cus
     padding: 1rem !important;
-
+  .tarjeta.color-primario-cus-3,
+  .tarjeta.color-primario-cus-2
+    border-radius: 20px;
+  .crd--avatarHorizontal-2
+    position: relative
+    padding: 1rem
+    margin-bottom: 0
+    border-radius: 37px
+    
+    &::before  
+      left: 0
+      width: auto
 
 //// MOBILE 576--------------------------------------
 @media screen and (max-width: $bp-min-sm)
@@ -375,7 +412,19 @@
     background-size: cover;
     height: 90px;
     padding-top: 9px;
-  .h-card-2
+  .h-card-2, .h-card-3
     height: auto
   .py-cus
     padding: 1rem !important;
+  .tarjeta.color-primario-cus-3,
+  .tarjeta.color-primario-cus-2
+    border-radius: 20px;
+  .crd--avatarHorizontal-2
+    position: relative
+    padding: 1rem
+    margin-bottom: 0
+    border-radius: 37px
+    
+    &::before  
+      left: 0
+      width: auto
