@@ -5,128 +5,159 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 4
-      h1 Valores organizacionales 
-    .row.justify-content-center.mb-5
-      .col-sm-12.col-lg-7
-        p Las organizaciones se convierten en el lugar donde todos los funcionarios pasan el mayor tiempo, por eso se hace necesario que se determinen patrones culturales que propicien el desarrollo de las personas, con el fin de facilitar su integración y consolidar la estabilidad de la organización. Esta cultura está compuesta por los #[b valores organizacionales]. Para poder comunicar y poner en marcha un valor hay que comprenderlo e interiorizarlo, de lo contrario resultaría fingida su práctica y esto afectaría la credibilidad de la organización.
-        p.mb-0 Los valores organizacionales dan un norte a los colaboradores, para poder desarrollar sus labores diarias, consolidando el sentido de pertenencia (sentirse parte de la organización) y el trabajo encaminado a alcanzar intereses comunes. Los valores no son estáticos (perpetuos), se pueden repensar según la dinámica de la empresa y del mercado.
+      h1 Políticas de calidad 
+    .row.justify-content-center.items-items-center.mb-5
+      .col-sm-12.col-md-8.col-lg-4.bg14.d-flex.justify-content-center.items-items-center.px-4.py-4.mb-cus
+        img(src='@/assets/curso/temas/tema4/img1.svg', alt='')
+      .col-sm-12.col-lg-8
+        p.mb-5.mt-3 Se entiende por política de calidad, la manifestación pública de la misión y visión de la organización, enfocada en la satisfacción de las necesidades del cliente y al compromiso con el alcance de los objetivos de calidad. 
+        .row.justify-content-center.align-items-center.mb-5
+          .col-sm-12.col-lg-1.d-none.d-lg-block
+            img(src='@/assets/curso/temas/tema4/img2.svg', alt='')
+          .col-sm-12.col-lg-11
+            p.mb-0 El respeto, la honestidad, la integridad, el servicio, la justicia, el trabajo, el diálogo, la ética, entre otros valores, son indispensable en los líderes de las organizaciones; sobre estas cualidades del liderazgo deben saber qué son, por qué son y para qué, y más aún, deben practicarlas. 
 
-      .col-sm-12.col-lg-5.d-none.d-lg-block
-        img(src='@/assets/curso/temas/tema4/img1.png', alt='')
-    p.mb-5 Entre los valores organizacionales se encuentran: 
-    .row.justify-content-center.mb-5
-      .col-sm-12.col-lg-3.d-none.d-lg-block
-        img(src='@/assets/curso/temas/tema4/img2.png', alt='')
-      .col-sm-12.col-lg-9
-        SlyderF.mb-5(columnas="col-lg-4 col-xl-4")
-          .tarjeta.slyder-f-cus-2.bgimg4.p-4
-            .row.justify-content-center.mb-4
-              .col-sm-12.col-lg-6.d-none.d-lg-block
-                img(src='@/assets/curso/temas/tema4/img3.svg', alt='')
-            h4.text-center Honestidad
-            p.text-center Se cumple lo que se promete. Hablar con la verdad. 
-          .tarjeta.slyder-f-cus-2.bgimg4.p-4
-            .row.justify-content-center.mb-4
-              .col-sm-12.col-lg-6.d-none.d-lg-block
-                img(src='@/assets/curso/temas/tema4/img4.svg', alt='')
-            h4.text-center Responsabilidad
-            p.text-center Se cumple con los compromisos y acciones. 
-          .tarjeta.slyder-f-cus-2.bgimg4.p-4
-            .row.justify-content-center.mb-4
-              .col-sm-12.col-lg-6.d-none.d-lg-block
-                img(src='@/assets/curso/temas/tema4/img5.svg', alt='')
-            h4.text-center Comunicación
-            p.text-center Comprometidos con la escucha activa y la comunicación asertiva. Se aplican normas de cortesía. 
-          .tarjeta.slyder-f-cus-2.bgimg4.p-4
-            .row.justify-content-center.mb-4
-              .col-sm-12.col-lg-6.d-none.d-lg-block
-                img(src='@/assets/curso/temas/tema4/img6.svg', alt='')
-            h4.text-center Sinceridad
-            p.text-center Expresar el sentir y hablar siempre con la verdad. 
-          .tarjeta.slyder-f-cus-2.bgimg4.p-4
-            .row.justify-content-center.mb-4
-              .col-sm-12.col-lg-6.d-none.d-lg-block
-                img(src='@/assets/curso/temas/tema4/img7.svg', alt='')
-            h4.text-center Respeto
-            p.text-center Se implementa las normas de cortesía y los buenos modales. Aceptar la diferencia. 
-          .tarjeta.slyder-f-cus-2.bgimg4.p-4
-            .row.justify-content-center.mb-4
-              .col-sm-12.col-lg-6.d-none.d-lg-block
-                img(src='@/assets/curso/temas/tema4/img8.svg', alt='')
-            h4.text-center Compañerismo
-            p.text-center Cada uno es coequipero del otro, esto garantiza el éxito y facilita el trabajo en equipo alcanzando la armonía en el trabajo. 
-          .tarjeta.slyder-f-cus-2.bgimg4.p-4
-            .row.justify-content-center.mb-4
-              .col-sm-12.col-lg-6.d-none.d-lg-block
-                img(src='@/assets/curso/temas/tema4/img9.svg', alt='')
-            h4.text-center Solidaridad
-            p.text-center Se brinda apoyo a otros cuando se requiere, sin esperar nada a cambio. 
-          .tarjeta.slyder-f-cus-2.bgimg4.p-4
-            .row.justify-content-center.mb-4
-              .col-sm-12.col-lg-6.d-none.d-lg-block
-                img(src='@/assets/curso/temas/tema4/img10.svg', alt='')
-            h4.text-center Amabilidad
-            p.text-center Ser afectuoso y cordial en la interacción con otros. 
-          .tarjeta.slyder-f-cus-2.bgimg4.p-4
-            .row.justify-content-center.mb-4
-              .col-sm-12.col-lg-6.d-none.d-lg-block
-                img(src='@/assets/curso/temas/tema4/img11.svg', alt='')
-            h4.text-center Aprendizaje
-            p.text-center El conocimiento se adquiere constantemente y la capacitación debe ser permanente con el fin de contribuir con el crecimiento, con el mejoramiento de las empresas y responder a los retos que imponen las organizaciones el mercado globalizado. 
-          .tarjeta.slyder-f-cus-2.bgimg4.p-4
-            .row.justify-content-center.mb-4
-              .col-sm-12.col-lg-6.d-none.d-lg-block
-                img(src='@/assets/curso/temas/tema4/img12.svg', alt='')
-            h4.text-center Mejoramiento continuo
-            p.text-center Vencer dificultades, fortalecer debilidades, compromiso con el cambio.  
+        .cajon.color-primario.p-4.mb-0
+          p.mb-0 Dentro de la política de calidad, las organizaciones deben definir los procesos de negociación, entendida como los pasos del intercambio comercial producto de su actividad económica (margen de descuentos, condiciones de garantía, periodos de ofertas, requisitos para llevar a cabo la transacción), que brinden beneficios a ambas partes (organización-cliente: ganar-ganar), es decir, que los actores dentro del proceso queden satisfechos.
+    .fullview.p-4
+      .row.justify-content-center.align-items-center.px-sm-0.px-lg-5.mb-0 
+        .col-sm-12.col-lg-12.mb-0.bg05.p-sm-0.p-lg-5 
+          SlyderA(tipo="b")
+              .px-5.py-1
+                h4 Misión
+                .row.justify-content-center.align-items-center.mb-5
+                  .col-sm-12.col-lg-1.d-none.d-lg-block
+                    img(src='@/assets/curso/temas/tema4/img3.svg', alt='')
+                  .col-sm-12.col-lg-11.bg06.px-4.py-3
+                    p.mb-0 Es a razón de ser de la empresa, el motivo por el cual existe. Así mismo es la determinación de las funciones básicas que la empresa va a desempeñar en un entorno determinado para conseguir tal misión. En ella se determina las características del cliente a quien va dirigido todo el actuar de la organización, los productos o servicios que se brindarán. Es la declaración del compromiso que desarrollará dentro del ámbito comercial, es decir, la definición del producto o servicio, el sector del mercado al que desea dar respuesta y la manifestación de sus valores organizacionales. 
+                .row.justify-content-center.mb-5
+                  .col-sm-12.col-lg-6.bg15.p-4
+                    p Las características que debe tener una misión son: 
+                    ul.lista-ul--color
+                      li.d-flex
+                        i.fas.fa-phone-alt
+                        span #[b Amplia:] que permita la continuidad en el tiempo. 
+                      li.d-flex
+                        i.fas.fa-phone-alt
+                        span #[b Concreta:] especificar el tipo de producto o servicio y el tipo de mercado al que se dirige. 
+                      li.d-flex
+                        i.fas.fa-phone-alt
+                        span #[b Motivadora:] generar expectativas de excelencia que mantengan el interés por su logro. 
+                      li.d-flex
+                        i.fas.fa-phone-alt
+                        span #[b Posible:] alcanzable con los recursos y medios de la organización. 
+                  .col-sm-12.col-lg-6.px-4.py-2
+                    p.mb-0 #[b Elementos que complementan la misión:] con la misión se conocerá el porqué de la empresa y para qué está la empresa en el mercado, el negocio al que se dedica la empresa en la actualidad, y hacia qué negocios o actividades puede encaminar su futuro, por lo tanto también debe ir de la mano con la visión y los valores. Según Kotler y Armstrong, en Marketing (2004), la misión se define como “un importante elemento de la planificación estratégica”. La misión es el papel que realiza en el momento la organización para alcanzar su visión, es el fundamento de ser de la empresa. Aclara cuál es su negocio. 
 
-    Separador
-    #t_4_1.titulo-segundo.color-acento-contenido
-      h2 4.1  Beneficios de los valores organizacionales 
-    .row.justify-content-start.mb-5
-      .col-lg-11.position-relative
-        .avatar
-          figure
-            img(src="@/assets/curso/temas/tema4/img14.svg", alt="alt").img250
-        .crd.crd--avatarHorizontal-2.crd--first-2.py-4
-          .row.align-items-center
-            .col-auto
-              figure
-                img(src="@/assets/curso/temas/tema4/img15.svg", alt="alt").img100
-            .col
-              p Los valores organizacionales representan una ganancia para la empresa, incrementando el desempeño de sus colaboradores y aumentando la productividad. 
-        .crd.crd--avatarHorizontal-2.py-4.crd--first-2
-          .row.align-items-center
-            .col-auto
-              figure
-                img(src="@/assets/curso/temas/tema4/img16.svg", alt="alt").img100
-            .col
-              p Los valores organizacionales propician la toma de decisiones de forma rápida y apropiada. Sirven como guía de comportamiento y desenvolvimiento de los colaboradores en la empresa, es decir contribuyen al mejoramiento de comportamientos éticos. 
-        .crd.crd--avatarHorizontal-2.py-4.crd--first-2
-          .row.align-items-center
-            .col-auto
-              figure
-                img(src="@/assets/curso/temas/tema4/img17.svg", alt="alt").img100
-            .col
-              p Son el reflejo de la imagen corporativa para los clientes. Si se fomentan estos comportamientos, se convierten en parte de la cultura organizacional (comportamientos que se presentan entre los colaboradores de una empresa), igualmente previenen conflictos, que median entre las diferencias de los colaboradores, generando acuerdos y consensos. 
-        .crd.crd--avatarHorizontal-2.crd--last-2.py-4
-          .row.align-items-center
-            .col-auto
-              figure
-                img(src="@/assets/curso/temas/tema4/img18.svg", alt="alt").img100
-            .col
-              p Son el reflejo de la imagen corporativa para los clientes. Si se fomentan estos comportamientos, se convierten en parte de la cultura organizacional (comportamientos que se presentan entre los colaboradores de una empresa), igualmente previenen conflictos, que median entre las diferencias de los colaboradores, generando acuerdos y consensos. 
- 
-    Separador
-    #t_4_2.titulo-segundo.color-acento-contenido
-      h2 4.2  Compromiso organizativo
-    .row.justify-content-center.mb-5
-      .col-sm-12.col-lg-7
-        p.mb-4 Es la respuesta positiva o no positiva, frente a los valores de la empresa, es decir, es el grado de identificación que tienen los colaboradores con la empresa, el grado de sentido de pertenencia, que se genera por la identificación y el apego emocional con la organización, por los principios y valores definidos, que promueven la lealtad.
-        .cajon.color-primario.p-4.mb-4
-          p.mb-0  El efecto de este compromiso organizativo es el agrado por parte de los funcionarios para llevar a cabo, cada una de las labores y la generación de un buen clima laboral, lo que se verá reflejado en una alta productividad y calidad en el servicio que brinda la empresa a sus clientes.
-      .col-sm-12.col-lg-5.d-none.d-lg-block
-        img(src='@/assets/curso/temas/tema4/img19.png', alt='')
+                p.mb-3 Las siguientes son preguntas frecuentes que se pueden formular en función de la organización para elaborar la misión: 
+                .row.justify-content-start.mb-0
+                  .col-sm-12.col-lg-3
+                    ul.lista-ul--color
+                      li.d-flex
+                        i.fas.fa-phone-alt
+                        span ¿Quiénes son? 
+                      li.d-flex
+                        i.fas.fa-phone-alt
+                        span ¿Qué buscan? 
+
+                  .col-sm-12.col-lg-3
+                    ul.lista-ul--color
+                      li.d-flex
+                        i.fas.fa-phone-alt
+                        span ¿Qué hacen? 
+                      li.d-flex
+                        i.fas.fa-phone-alt
+                        span ¿Dónde lo hacen? 
+
+                  .col-sm-12.col-lg-3
+                    ul.lista-ul--color
+                      li.d-flex
+                        i.fas.fa-phone-alt
+                        span ¿Por qué lo hacen? 
+                      li.d-flex
+                        i.fas.fa-phone-alt
+                        span ¿Para quién trabajan? 
+
+              .px-5.py-1
+                h4 Visión
+                .row.justify-content-center.align-items-center.mb-5
+                  .col-sm-12.col-lg-1.d-none.d-lg-block
+                    img(src='@/assets/curso/temas/tema4/img4.svg', alt='')
+                  .col-sm-12.col-lg-11.bg06.px-4.py-3
+                    p.mb-0 Es un elemento que complementa la misión, que promueve las acciones que realiza la empresa. Es definida por Fleitman (2000), como “el camino al cual se dirige la empresa a largo plazo y sirve de rumbo y aliciente para orientar las decisiones estratégicas de crecimiento junto a las de competitividad”. La visión es la manifestación del deseo, la aspiración, la esperanza de la empresa en un tiempo establecido, es una expresión del anhelo futuro a mediano o largo plazo del accionar del actuar de la organización. Su finalidad es servir de rumbo, de aliciente para trabajar por alcanzar un estado de excelencia. 
+                p.mb-3 Las siguientes son preguntas frecuentes que se pueden formular en función de la organización para elaborar la visión: 
+                ul.lista-ul--color.d-flex.flow-list
+                      li.d-flex
+                        i.fas.fa-phone-alt
+                        span ¿Cuál es la imagen que se desea proyectar? 
+
+                      li.d-flex
+                        i.fas.fa-phone-alt
+                        span ¿Cuál será su futuro? 
+                      li.d-flex
+                        i.fas.fa-phone-alt
+                        span ¿A qué se dedicarán en el futuro? 
+                img.d-none.d-lg-block(src='@/assets/curso/temas/tema4/img5.png', alt='')
+              .px-5.py-1
+                h4 Valores
+                .row.justify-content-center.align-items-center.mb-5
+                  .col-sm-12.col-lg-1.d-none.d-lg-block
+                    img(src='@/assets/curso/temas/tema4/img6.svg', alt='')
+                  .col-sm-12.col-lg-11.bg06.px-4.py-3
+                    p.mb-3 La misión hace parte de los valores y principios que asume la empresa y que la identifican. Los valores son pautas de comportamiento que trazan el sendero de las relaciones dentro de la organización, para garantizar un clima organizacional de armonía, equilibrio y respeto; orientan los comportamientos ante situaciones dentro de la empresa. Las organizaciones deben asumir el compromiso de promoverlos, revisarlos y difundirlos entre todos los funcionarios constantemente, con el fin de que todos los interioricen y los pongan en práctica en sus labores cotidianas. 
+                    p.mb-0 En las organizaciones los valores propician que sus funcionarios interactúen de forma asertiva y favorecen el alcance de los objetivos de la empresa. 
+                .row.justify-content-center.mb-5
+                  .col-sm-12.col-lg-6.bg15.p-4
+                    p Para que los valores organizacionales tengan éxito se requiere:
+                    ul.lista-ul--color
+                      li.d-flex
+                        i.fas.fa-phone-alt
+                        span Que los conozcan todos los colaboradores. 
+                      li.d-flex
+                        i.fas.fa-phone-alt
+                        span Que todos comprendan su significado. 
+                      li.d-flex
+                        i.fas.fa-phone-alt
+                        span Que se asuman los comportamientos que implica cada uno. 
+                      li.d-flex.mb-0
+                        i.fas.fa-phone-alt
+                        span Que se apliquen en el desarrollo de las funciones o labores.
+                  .col-sm-12.col-lg-6.p-4
+                      p Para que en las organizaciones los valores cumplan un papel preponderante deben: 
+                      ul.lista-ul--color
+                        li.d-flex
+                          i.fas.fa-phone-alt
+                          span Que los miembros o funcionarios en todos los niveles, manejen el mismo significado. 
+                        li.d-flex
+                          i.fas.fa-phone-alt
+                          span Ser compartidos por todos, es decir, todos reconocen su importancia dentro de la dinámica organizacional. 
+                        li.d-flex
+                          i.fas.fa-phone-alt
+                          span Son asumidos, evocados y aplicados dentro del desempeño cotidiano. 
+
+                img.d-none.d-lg-block(src='@/assets/curso/temas/tema4/img7.png', alt='')
+              .px-5.py-1
+                h4 Objetivos
+                .row.justify-content-center.align-items-center.mb-5
+                  .col-sm-12.col-lg-1.d-none.d-lg-block
+                    img(src='@/assets/curso/temas/tema4/img8.svg', alt='')
+                  .col-sm-12.col-lg-11.bg06.px-4.py-3
+                    p.mb-3 Son metas que se plantea la organización dentro de un límite de tiempo, son medibles, cuantificables y observables. Son expresados de forma precisa y positiva. El objetivo debe ser coherente con la visión y la misión. 
+                img.d-none.d-lg-block(src='@/assets/curso/temas/tema4/img9.png', alt='')
+              .px-5.py-1
+                h4  Estrategia
+                .row.justify-content-center.align-items-center.mb-5
+                  .col-sm-12.col-lg-1.d-none.d-lg-block
+                    img(src='@/assets/curso/temas/tema4/img14.svg', alt='')
+                  .col-sm-12.col-lg-11.bg06.px-4.py-3
+                    p.mb-3 Representa un plan de trabajo con el fin de llegar a lograr los objetivos definidos y responder a la visión de la empresa y debe contribuir con al fomento de los valores establecidos. La diferencia entre estrategia y táctica se basa en que la primera debe responder a una planeación, implica prever qué acontecimientos se pueden presentar en un futuro y la táctica permite el desarrollo de la estrategia y se lleva a cabo “sobre la marcha”.
+                img.d-none.d-lg-block(src='@/assets/curso/temas/tema4/img15.png', alt='')
+
+
+
+
+
+
 
 </template>
 

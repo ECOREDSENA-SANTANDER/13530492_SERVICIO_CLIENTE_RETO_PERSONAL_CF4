@@ -98,6 +98,8 @@
 .bg14
   border-radius: 10px
   background-color:#FFECCA
+.bg15
+  background-color:#FCECE3
 .bgimg1
     background-image: url('../assets/curso/temas/tema1/img13.svg') !important;
     background-size: cover
@@ -141,7 +143,8 @@
   margin-inline: -3.4rem
 .br-10
   border-radius: 10px 
-
+.flow-list
+  justify-content: space-between 
 /*Custom components*/
 .tarjeta--boton
     background-color: #EFD5C5;
@@ -346,6 +349,9 @@
       width: auto
   .bgimg1
     height: 440px !important;
+  .flow-list
+    justify-content: start
+    flex-direction: column
 //// TABLET MINI 768--------------------------------------
 @media screen and (max-width: $bp-min-md)
   .mb-cus
@@ -387,6 +393,9 @@
       width: auto
   .bgimg1
     height: 440px !important;
+  .flow-list
+    justify-content: start
+    flex-direction: column
 //// MOBILE 576--------------------------------------
 @media screen and (max-width: $bp-min-sm)
   .mb-cus
@@ -433,3 +442,6 @@
     &::before  
       left: 0
       width: auto
+  .flow-list
+    justify-content: start
+    flex-direction: column
