@@ -103,14 +103,13 @@
     background-size: cover
     background-repeat: no-repeat
     background-position: center 
-    height: 400px !important
+    height: 300px !important
 .bgimg2
-    background-image: url('../assets/curso/temas/tema2/img19.svg') !important;
+    background-image: url('../assets/curso/temas/tema3/img7.svg') !important;
     background-size: contain
     background-repeat: no-repeat
     background-position: left 
     width: fit-content
-    height: 50px
     padding-left: 10px
     padding-right: 20px
 .bgimg3
@@ -286,11 +285,13 @@
     width: auto !important
 .h-card-2
     height: 420px;
-
-.tarjeta.color-primario-cus
-    background-color: #FFBD45;
 .h-card-3
     height: 350px;
+.h-card-4
+    height: 245px;
+.tarjeta.color-primario-cus
+    background-color: #FFBD45;
+
 
 /*Media Queries*/  
 //// DESKTOP SMALL 1400--------------------------------------
@@ -302,7 +303,8 @@
     margin-right: 1em
   .h-card-2
     height: 450px
-
+  .bgimg1
+    height: 370px !important;
 //// TABLET 992--------------------------------------
 @media screen and (max-width: $bp-max-md)
   .mb-cus
@@ -342,6 +344,8 @@
     &::before  
       left: 0
       width: auto
+  .bgimg1
+    height: 440px !important;
 //// TABLET MINI 768--------------------------------------
 @media screen and (max-width: $bp-min-md)
   .mb-cus
@@ -381,7 +385,8 @@
     &::before  
       left: 0
       width: auto
-
+  .bgimg1
+    height: 440px !important;
 //// MOBILE 576--------------------------------------
 @media screen and (max-width: $bp-min-sm)
   .mb-cus
@@ -412,7 +417,7 @@
     background-size: cover;
     height: 90px;
     padding-top: 9px;
-  .h-card-2, .h-card-3
+  .h-card-2, .h-card-3, .h-card-4
     height: auto
   .py-cus
     padding: 1rem !important;
