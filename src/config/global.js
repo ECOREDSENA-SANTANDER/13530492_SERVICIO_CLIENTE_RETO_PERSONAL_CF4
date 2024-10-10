@@ -208,12 +208,12 @@ export default {
     },
     {
       referencia:
-        'Dipole. (2013). Trazabilidad. Consultado el 15 de julio de 2015, en http://www.dipolerfid.es/Trazabilidad/ ',
+        'Dipole. (2013). Trazabilidad. Consultado el 15 de julio de 2015, en ',
       link: 'http://www.dipolerfid.es/Trazabilidad/',
     },
     {
       referencia:
-        'Estategia Magazine. (2002). Calidad en la atención al cliente (II). Consultado el 15 de julio de 2015, en http://www.estrategiamagazine.com/marketing/calidad-en-la-atencion-al-cliente-ii-virtudes-atencion-perfecta-quejas-servicios-adicionales/ ',
+        'Estategia Magazine. (2002). Calidad en la atención al cliente (II). Consultado el 15 de julio de 2015, en  ',
       link:
         'http://www.estrategiamagazine.com/marketing/calidad-en-la-atencion-al-cliente-ii-virtudes-atencion-perfecta-quejas-servicios-adicionales/',
     },
@@ -235,7 +235,7 @@ export default {
     },
     {
       referencia:
-        'Real Academia Española. (2015). Calidad. Consultado el 15 de julio de 2015, en http://lema.rae.es/drae/?val=calidad ',
+        'Real Academia Española. (2015). Calidad. Consultado el 15 de julio de 2015, en ',
       link: 'http://lema.rae.es/drae/?val=calidad',
     },
     {
@@ -264,28 +264,32 @@ export default {
       autores: [
         {
           nombre: 'José Luis Aguilar Camacho',
-          cargo: '--',
-          centro: '--',
+          cargo: 'Experto temática',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
         {
           nombre: 'Marina Jaramillo Portillo',
-          cargo: '--',
-          centro: '--',
+          cargo: 'Experta temática',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
         {
           nombre: 'Lucy Yaneth Rache Pérez',
-          cargo: '--',
-          centro: '--',
+          cargo: 'Experta temática',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
         {
           nombre: 'Elsa Vargas Báez',
-          cargo: '--',
-          centro: '--',
+          cargo: 'Experta temática',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
         {
-          nombre: 'Luz Clarena Arias González ',
-          cargo: '--',
-          centro: '--',
+          nombre: 'Luz Clarena Arias González',
+          cargo: 'Guionista - Línea de Producción',
+          centro: 'Centro Agroindustrial - Regional Quindío',
         },
         {
           nombre: 'Carolina Jiménez',
@@ -318,7 +322,7 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: '--',
+          nombre: 'Yineth Ibette Gonzalez Quintero',
           cargo: 'Validadora de recursos educativos digitales',
           centro: 'Regional Santander - Centro Agroturístico',
         },

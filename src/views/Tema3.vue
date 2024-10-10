@@ -12,7 +12,7 @@
       .col-sm-12.col-lg-8
         p.mb-4 Se concibe la trazabilidad como todas y cada una de las acciones estandarizadas, que facilitan efectuar un registro histórico del recorrido y vida de un producto o servicio “a lo largo de la cadena de suministros en un momento dado, a través de unas herramientas determinadas”. (Comité de Seguridad Alimentaria de AECOC, 2009, p. 5) 
         .cajon.color-primario.p-4.mb-4
-          h5 De acuerdo con Codex Alimentarios (2009), 
+          h5 De acuerdo con Codex Alimentarios (2009): 
           p.mb-0 Trazabilidad es “la capacidad para seguir el movimiento de un alimento a través de etapa(s) especificada(s) de la producción, transformación y distribución”. 
 
         p.mb-0 La trazabilidad entonces se entiende como los procedimientos definidos y estandarizados que permiten conocer la identificación, historia, localización y el destino final que ha tenido un producto o servicio a lo largo de la cadena de suministros y abastecimiento en un momento determinado. Es decir, es la serie de actividades establecidas con el fin de poder registrar el seguimiento a un producto o servicio hasta su destino final.
@@ -22,7 +22,7 @@
         p.mb-4 El concepto surge como una necesidad de garantizar la calidad de los productos de la industria alimenticia, pero es aplicable a cualquier producto o servicio, en tanto que se busca identificar puntos críticos que pueden afectar un producto o servicio, con el fin de plantear acciones de mejoramiento, encaminado a alcanzar la satisfacción plena del cliente. 
 
         .cajon.color-primario.p-4.mb-4
-          p.mb-0 La trazabilidad además permite brindar información completa al cliente, con el fin de incrementar su confianza y fidelidad. Además, fomenta en las empresas el sistema de autocontrol y autoevaluación que le permitirán mayor posicionamiento en los mercados.
+          p.mb-0 La trazabilidad además permite brindar información completa al cliente, con el fin de incrementar su confianza y fidelidad. Por consiguiente, fomenta en las empresas el sistema de autocontrol y autoevaluación que le permitirán mayor posicionamiento en los mercados.
 
       .col-sm-12.col-lg-5.d-none.d-lg-block
         img(src='@/assets/curso/temas/tema3/img5.png', alt='')
@@ -94,19 +94,19 @@
       .col-sm-12.col-lg-9
         TabsA.color-acento-botones.mb-5
           .tarjeta.bg09.p-5(titulo="Reconocer")
-            p.mb-0 Reconocer el proceso de vida del producto o servicio. 
+            p.mb-0 El proceso de vida del producto o servicio. 
 
           .tarjeta.bg09.p-5(titulo="Identificar")
-            p.mb-0 Identificar puntos críticos (mal servicio, producto defectuoso, inconformidad con el producto o servicio) que puedan causar detrimento para la empresa o para el cliente. 
+            p.mb-0 Puntos críticos (mal servicio, producto defectuoso, inconformidad con el producto o servicio) que puedan causar detrimento para la empresa o para el cliente. 
 
           .tarjeta.bg09.p-5(titulo="Contar")
-            p.mb-0 Contar con una base de datos que contenga información completa de los productos o servicios. 
+            p.mb-0 Con una base de datos que contenga información completa de los productos o servicios. 
 
           .tarjeta.bg09.p-5(titulo="Implementar")
-            p.mb-0 Implementar sistemas de autocontrol y autoevaluación. 
+            p.mb-0 Sistemas de autocontrol y autoevaluación. 
 
           .tarjeta.bg09.p-5(titulo="Formular")
-            p.mb-0 Formular acciones de mejora frente a quejas, reclamos y devoluciones.  
+            p.mb-0 Acciones de mejora frente a quejas, reclamos y devoluciones.  
 
       .col-sm-12.col-lg-3.d-none.d-lg-block
         img(src='@/assets/curso/temas/tema3/img8.png', alt='')
@@ -119,7 +119,7 @@
       .p-5(titulo="Para las empresas" :icono="require('@/assets/curso/temas/tema3/img9.svg')")
         .row
           .col-sm-12.col-lg-8
-            h4 Para las empresas
+            //h4 Para las empresas
             ul.lista-ul--color
                 li.d-flex
                   i.fas.fa-phone-alt
@@ -167,7 +167,7 @@
       .p-5(titulo="Para el cliente" :icono="require('@/assets/curso/temas/tema3/img10.svg')")
         .row
           .col-sm-12.col-lg-8
-            h4 Para el cliente
+            //h4 Para el cliente
             ul.lista-ul--color
                 li.d-flex
                   i.fas.fa-phone-alt
