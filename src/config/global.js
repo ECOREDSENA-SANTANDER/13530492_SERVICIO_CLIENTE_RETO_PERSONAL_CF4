@@ -264,7 +264,7 @@ export default {
       autores: [
         {
           nombre: 'José Luis Aguilar Camacho',
-          cargo: 'Experto temática',
+          cargo: 'Experto temático',
           centro:
             'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
@@ -292,7 +292,7 @@ export default {
           centro: 'Centro Agroindustrial - Regional Quindío',
         },
         {
-          nombre: 'Carolina Jiménez',
+          nombre: 'Carolina Jiménez Suescún',
           cargo: 'Evaluadora instruccional ',
           centro: 'Centro Agroturístico - Regional Santander',
         },
@@ -327,7 +327,7 @@ export default {
           centro: 'Regional Santander - Centro Agroturístico',
         },
         {
-          nombre: 'Erika Fernanda Mejía Pinzón',
+          nombre: 'Diana Lizeth Lozada Díaz',
           cargo: 'Evaluadora para contenidos inclusivos y accesibles',
           centro: 'Regional Santander - Centro Agroturístico',
         },

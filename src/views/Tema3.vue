@@ -40,7 +40,7 @@
         h4.py-1.text-center.bg04.mb-4.m-auto.px-3 Trazabilidad interna o de proceso
         p.text-center Revisión interna de los procesos que sigue para brindar un producto o servicio. 
       .tarjeta.slyder-f-cus.bgimg1.p-4
-        h4.py-1.text-center.bg04.mb-4.m-auto.px-3 Trazabilidad hacia delante: 
+        h4.py-1.text-center.bg04.mb-4.m-auto.px-3 Trazabilidad hacia delante
         p.text-center Si su negocio es entregar producto o servicio directamente al cliente. 
       .tarjeta.slyder-f-cus.bgimg1.p-4
         h4.py-1.text-center.bg04.mb-4.m-auto.px-3 Trazabilidad individual

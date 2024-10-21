@@ -47,7 +47,7 @@
                         i.fas.fa-phone-alt
                         span #[b Posible:] alcanzable con los recursos y medios de la organización. 
                   .col-sm-12.col-lg-6.px-4.py-2
-                    p.mb-0 #[b Elementos que complementan la misión:] con la misión se conocerá el porqué de la empresa y para qué está la empresa en el mercado, el negocio al que se dedica la empresa en la actualidad, y hacia qué negocios o actividades puede encaminar su futuro, por lo tanto también debe ir de la mano con la visión y los valores. Según Kotler y Armstrong, en Marketing (2004), la misión se define como “un importante elemento de la planificación estratégica”. La misión es el papel que realiza en el momento la organización para alcanzar su visión, es el fundamento de ser de la empresa. Aclara cuál es su negocio. 
+                    p.mb-0 #[b Elementos que complementan la misión:] con la misión se conocerá el porqué de la empresa y para qué está la empresa en el mercado, el negocio al que se dedica la empresa en la actualidad, y hacia qué negocios o actividades puede encaminar su futuro, por lo tanto, también debe ir de la mano con la visión y los valores. Según Kotler y Armstrong, en Marketing (2004), la misión se define como “un importante elemento de la planificación estratégica”. La misión es el papel que realiza en el momento la organización para alcanzar su visión, es el fundamento de ser de la empresa. Aclara cuál es su negocio. 
 
                 p.mb-3 Las siguientes son preguntas frecuentes que se pueden formular en función de la organización para elaborar la misión: 
                 .row.justify-content-start.mb-0

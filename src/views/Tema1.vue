@@ -21,6 +21,7 @@
     Separador
     #t_1_1.titulo-segundo.color-acento-contenido
       h2 1.1 Principios de la calidad del servicio
+    p.mb-5 A continuación, se presentan los principios que destacan para garantizar la calidad del servicio:
     .row.justify-content-center.mb-5
       .col-sm-12.col-lg-3.d-none.d-lg-block
         img(src='@/assets/curso/temas/tema1/img6.png', alt='')
