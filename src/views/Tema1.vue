@@ -70,6 +70,7 @@
     Separador
     #t_1_2.titulo-segundo.color-acento-contenido
       h2 1.2 Factores que determinan la calidad de los servicios
+    p.mb-3 Los factores hacen referencia a los elementos que propician el alcance de la calidad en el servicio o producto que ofrece una entidad. Trabajar en el fomento de cada uno de ellos con todos los colaboradores de la empresa, va a marcar la diferencia con otras empresas de la misma naturaleza y garantizará la competitividad y la permanencia en el mercado global. 
     .row.justify-content-center.mb-5
       .col-sm-12.col-lg-8
         ImagenInfografica.color-acento-botones.mb-5
@@ -104,7 +105,6 @@
 
           .tarjeta.color-primario-cus.p-3(x="5%" y="35%" numero="+")
             p.mb-0 Accesibilidad
-    p.mb-3 Los factores hacen referencia a los elementos que propician el alcance de la calidad en el servicio o producto que ofrece una entidad. Trabajar en el fomento de cada uno de ellos con todos los colaboradores de la empresa, va a marcar la diferencia con otras empresas de la misma naturaleza y garantizará la competitividad y la permanencia en el mercado global. 
     p.mb-5 Entre los factores que se destacan se encuentran:     
     .row.justify-content-center.mb-5
       .col-sm-12.col-lg-10
