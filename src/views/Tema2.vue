@@ -21,7 +21,7 @@
               img(src='@/assets/curso/temas/tema2/img3.svg')
           
         h3.text-center Perfecta: 
-        p.mb-0 Es una expresión que indica excelencia, magnificencia, insuperable, inmejorable, íntegro, es decir lo que supera las expectativas del cliente, con un alto grado de calidad. 
+        p.mb-0 Es una expresión que indica excelencia, magnificencia, insuperable, inmejorable, íntegro, es decir, lo que supera las expectativas del cliente, con un alto grado de calidad. 
     p.mb-5 Por ello, hablar de atención perfecta es hacer alusión al compromiso que deben tener todos los colaboradores de la empresa en el compromiso, agrado, actitud proactiva, vocación de servicio, que permita ofrecer un excelente e inmejorable servicio o producto. 
     .row.justify-content-center.mb-5
       .col-sm-12.col-lg-8
@@ -32,7 +32,7 @@
       .col-sm-12.col-lg-1.d-none.d-lg-block
         img(src='@/assets/curso/temas/tema2/img4.svg', alt='')
       .col-sm-12.col-lg-11.py-4
-        p.mb-0 Estos sencillos ingredientes, conforman la fórmula de la fidelidad, la confianza y la credibilidad de los clientes hacia una empresa. Es la esencia de una excelente imagen corporativa e interrelación organizacional. 
+        p.mb-0 Estos sencillos ingredientes conforman la fórmula de la fidelidad, la confianza y la credibilidad de los clientes hacia una empresa. Es la esencia de una excelente imagen corporativa e interrelación organizacional. 
     p.mb-5 Las habilidades que se deben desarrollar para ofrecer una atención perfecta y que van a dejar una huella imborrable en la memoria de los clientes son: 
     .row.justify-content-start.mb-5
       .col-lg-10.position-relative

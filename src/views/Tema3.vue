@@ -54,7 +54,7 @@
       h2 3.2 Momento de la trazabilidad en el sistema
     .row.justify-content-center.items-content-center.mb-5
       .col-sm-12.col-lg-7
-        p.mb-4 Toda organización debe aplicar la trazabilidad como estrategia para mejorar sus procesos y gestión de servicios al cliente, es decir empresas de producción primaria como proveedores de productos, empresas administradoras de medicamentos, empresas de alimentos, empresas agropecuarias, empresas de distribución y ventas, empresas de minería y petróleos, empresas de servicios, entre otros sectores. 
+        p.mb-4 Toda organización debe aplicar la trazabilidad como estrategia para mejorar sus procesos y gestión de servicios al cliente, es decir, empresas de producción primaria como proveedores de productos, empresas administradoras de medicamentos, empresas de alimentos, empresas agropecuarias, empresas de distribución y ventas, empresas de minería y petróleos, empresas de servicios, entre otros sectores. 
         p.mb-0 Al realizar una trazabilidad en las empresas se maximiza la seguridad y por ende se reciben beneficios tales como: confianza por parte del consumidor y mayor eficacia en gestión de incidencias para la administración; los cuales se reflejan en ganancias y ahorro económicos para la empresa.
 
       .col-sm-12.col-lg-5.d-none.d-lg-block
@@ -79,7 +79,7 @@
             span Cumplimiento de la política “justo a tiempo”. 
           li.d-flex
             i.fas.fa-phone-alt
-            span Mejoramiento en proceso de producción, venta y post venta. 
+            span Mejoramiento en proceso de producción, venta y postventa. 
           li.d-flex
             i.fas.fa-phone-alt
             span Identificación de las necesidades del cliente. 

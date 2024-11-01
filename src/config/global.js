@@ -178,7 +178,7 @@ export default {
     {
       termino: 'Asertividad',
       significado:
-        'habilidad social que poseen ciertos individuos de comunicar y defender sus propios derechos e ideas de manera adecuada y respetando las de los demás.',
+        'habilidad social que poseen ciertos individuos para comunicar y defender sus propios derechos e ideas de manera adecuada y respetando las de los demás.',
     },
     {
       termino: 'Autómata',
@@ -213,7 +213,7 @@ export default {
     },
     {
       referencia:
-        'Estategia Magazine. (2002). Calidad en la atención al cliente (II). Consultado el 15 de julio de 2015, en  ',
+        'Estrategia Magazine. (2002). Calidad en la atención al cliente (II). Consultado el 15 de julio de 2015, en  ',
       link:
         'http://www.estrategiamagazine.com/marketing/calidad-en-la-atencion-al-cliente-ii-virtudes-atencion-perfecta-quejas-servicios-adicionales/',
     },
@@ -288,7 +288,7 @@ export default {
         },
         {
           nombre: 'Luz Clarena Arias González',
-          cargo: 'Guionista - Línea de Producción',
+          cargo: 'Guionista línea de Producción',
           centro: 'Centro Agroindustrial - Regional Quindío',
         },
         {
@@ -308,7 +308,7 @@ export default {
         },
         {
           nombre: 'Lizeth Karina Manchego Suarez',
-          cargo: 'Desarrolladora <i>full-stack</i>',
+          cargo: 'Desarrolladora <i>full stack</i>',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {

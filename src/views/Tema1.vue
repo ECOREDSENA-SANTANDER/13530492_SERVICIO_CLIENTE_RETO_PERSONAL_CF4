@@ -11,7 +11,7 @@
 
       .col-sm-12.col-lg-8
         p.mb-3 La dinámica de mercado globalizado exige empresas integrales que prioricen cuatro funciones fundamentales: la administrativa, la operativa, la comercial y del marketing (actividades de mercadeo), orientadas al desarrollo de liderazgo al interior de la empresa, acción que se verá reflejada en el reconocimiento de la organización dentro de ámbito comercial. 
-        p.mb-4 Uno de los pilares del éxito de las empresas en el mundo actual es trabajar por lograr total satisfacción de los clientes, por ello dedican esfuerzos para responder a sus inquietudes, dudas, expectativas y necesidades. Se puede afirmar entonces, que son los clientes quienes marcan las pautas que van a asegurar la calidad del servicio o producto. 
+        p.mb-4 Uno de los pilares del éxito de las empresas en el mundo actual es trabajar por lograr total satisfacción de los clientes, por ello dedican esfuerzos para responder a sus inquietudes, dudas, expectativas y necesidades. Se puede afirmar, entonces, que son los clientes quienes marcan las pautas que van a asegurar la calidad del servicio o producto. 
         .cajon.color-primario.p-4.mb-4
           p.mb-0 La lupa que permite indagar las apreciaciones del cliente en cuanto a veracidad, compromiso, confianza, sintonía y percepción del objeto o servicio como tal, es la calidad en el servicio, determinada por los estándares que toma el cliente como referencia para emitir su evaluación y la respuesta de la organización frente a sus expectativas.
 
@@ -181,7 +181,7 @@
                 img(src='@/assets/curso/temas/tema1/img19.svg')
 
           h4.text-center   Presentación del producto o servicio   y la atención oportuna
-          p.mb-0.text-center  Las organizaciones deben trabajar en el empaque, en el portafolio de servicios en campañas publicitarias que faciliten la relación producto o servicio-cliente. Se puede agregar a esto el compromiso de todos los colaboradores en dar al cliente una atención de calidad, que lo haga sentir importante y reconocido. 
+          p.mb-0.text-center  Las organizaciones deben trabajar en el empaque, en el portafolio de servicios, en campañas publicitarias que faciliten la relación producto o servicio-cliente. Se puede agregar a esto el compromiso de todos los colaboradores en dar al cliente una atención de calidad, que lo haga sentir importante y reconocido. 
 
       .col-sm-6.col-lg-4.mb-cus
         .tarjeta--boton.color-primario.p-4.h-card-2
@@ -189,7 +189,7 @@
             .col-sm-12.col-lg-4.d-none.d-lg-block
                 img(src='@/assets/curso/temas/tema1/img20.svg')
 
-          h4.text-center  La garantía y la atención post venta 
+          h4.text-center  La garantía y la atención postventa 
           p.mb-0.text-center El cumplimiento de promesas, de acuerdos establecidos en el proceso de negociación, entre empresa-cliente, son garantes de la seriedad en el proceso comercial, además el seguimiento y el acompañamiento por parte de la empresa durante la postventa generan un sentimiento de agradecimiento y tranquilidad que se verá expresado en la fidelidad del cliente.  
 
 
@@ -202,7 +202,7 @@
           .col-sm-12.col-lg-2.d-none.d-lg-block
             img(src='@/assets/curso/temas/tema1/img21.svg', alt='')
           .col-sm-12.col-lg-10.py-4
-            p.mb-0 Uno de los elementos que permite monitorear la satisfacción del servicio, son sus manifestaciones de inconformidad, ya que, gracias a ellas, las empresas pueden desarrollar acciones de mejora que le van a garantizar la vigencia y permanencia dentro del mercado. 
+            p.mb-0 Uno de los elementos que permite monitorear la satisfacción del servicio, son sus manifestaciones de inconformidad, ya que, gracias a ellas, las empresas pueden desarrollar acciones de mejora que les van a garantizar la vigencia y permanencia dentro del mercado. 
         .cajon.color-primario.p-4.mb-4
           p.mb-0 Estar en actitud de escucha activa, en disposición de resolver cualquier inquietud, de comprensión, de sintonía con el cliente, además de un trato afable, una expresión de gratitud, de contacto durante todo el ciclo del servicio, se convierten en factores adicionales que son considerados por el cliente en el momento de evaluar el servicio y de categorizar su nivel de satisfacción.
 
