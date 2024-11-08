@@ -29,7 +29,7 @@
                   .col-sm-12.col-lg-1.d-none.d-lg-block
                     img(src='@/assets/curso/temas/tema4/img3.svg', alt='')
                   .col-sm-12.col-lg-11.bg06.px-4.py-3
-                    p.mb-0 Es a razón de ser de la empresa, el motivo por el cual existe. Así mismo es la determinación de las funciones básicas que la empresa va a desempeñar en un entorno determinado para conseguir tal misión. En ella se determina las características del cliente a quien va dirigido todo el actuar de la organización, los productos o servicios que se brindarán. Es la declaración del compromiso que desarrollará dentro del ámbito comercial, es decir, la definición del producto o servicio, el sector del mercado al que desea dar respuesta y la manifestación de sus valores organizacionales. 
+                    p.mb-0 Es la razón de ser de la empresa, el motivo por el cual existe. Así mismo es la determinación de las funciones básicas que la empresa va a desempeñar en un entorno determinado para conseguir tal misión. En ella se determinan las características del cliente a quien va dirigido todo el actuar de la organización, los productos o servicios que se brindarán. Es la declaración del compromiso que desarrollará dentro del ámbito comercial, es decir, la definición del producto o servicio, el sector del mercado al que desea dar respuesta y la manifestación de sus valores organizacionales.
                 .row.justify-content-center.mb-5
                   .col-sm-12.col-lg-6.bg15.p-4
                     p Las características que debe tener una misión son: 
@@ -84,7 +84,7 @@
                   .col-sm-12.col-lg-1.d-none.d-lg-block
                     img(src='@/assets/curso/temas/tema4/img4.svg', alt='')
                   .col-sm-12.col-lg-11.bg06.px-4.py-3
-                    p.mb-0 Es un elemento que complementa la misión, que promueve las acciones que realiza la empresa. Es definida por Fleitman (2000), como “el camino al cual se dirige la empresa a largo plazo y sirve de rumbo y aliciente para orientar las decisiones estratégicas de crecimiento junto a las de competitividad”. La visión es la manifestación del deseo, la aspiración, la esperanza de la empresa en un tiempo establecido, es una expresión del anhelo futuro a mediano o largo plazo del accionar del actuar de la organización. Su finalidad es servir de rumbo y aliciente para trabajar por alcanzar un estado de excelencia. 
+                    p.mb-0 Ees un elemento que complementa la misión, que promueve las acciones que realiza la empresa. Es definida por Fleitman (2000), como “el camino al cual se dirige la empresa a largo plazo y sirve de rumbo y aliciente para orientar las decisiones estratégicas de crecimiento junto a las de competitividad”. La visión es la manifestación del deseo, la aspiración, la esperanza de la empresa en un tiempo establecido, es una expresión del anhelo futuro a mediano o largo plazo del accionar y del actuar de la organización. Su finalidad es servir de rumbo y de aliciente para trabajar por alcanzar un estado de excelencia. 
                 p.mb-3 Las siguientes son preguntas frecuentes que se pueden formular en función de la organización para elaborar la visión: 
                 ul.lista-ul--color.d-flex.flow-list
                       li.d-flex
@@ -142,7 +142,7 @@
                   .col-sm-12.col-lg-1.d-none.d-lg-block
                     img(src='@/assets/curso/temas/tema4/img8.svg', alt='')
                   .col-sm-12.col-lg-11.bg06.px-4.py-3
-                    p.mb-3 Son metas que se plantean la organización dentro de un límite de tiempo, son medibles, cuantificables y observables. Son expresados de forma precisa y positiva. El objetivo debe ser coherente con la visión y la misión. 
+                    p.mb-3 Son metas que se plantea la organización dentro de un límite de tiempo, son medibles, cuantificables y observables. Son expresados de forma precisa y positiva. El objetivo debe ser coherente con la visión y la misión.
                 img.d-none.d-lg-block(src='@/assets/curso/temas/tema4/img9.png', alt='')
               .px-5.py-1
                 h4  Estrategia

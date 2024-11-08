@@ -288,7 +288,7 @@ export default {
         },
         {
           nombre: 'Luz Clarena Arias González',
-          cargo: 'Guionista línea de Producción',
+          cargo: 'Guionista línea de producción',
           centro: 'Centro Agroindustrial - Regional Quindío',
         },
         {
