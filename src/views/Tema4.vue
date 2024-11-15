@@ -29,7 +29,7 @@
                   .col-sm-12.col-lg-1.d-none.d-lg-block
                     img(src='@/assets/curso/temas/tema4/img3.svg', alt='')
                   .col-sm-12.col-lg-11.bg06.px-4.py-3
-                    p.mb-0 Es la razón de ser de la empresa, el motivo por el cual existe. Así mismo es la determinación de las funciones básicas que la empresa va a desempeñar en un entorno determinado para conseguir tal misión. En ella se determinan las características del cliente a quien va dirigido todo el actuar de la organización, los productos o servicios que se brindarán. Es la declaración del compromiso que desarrollará dentro del ámbito comercial, es decir, la definición del producto o servicio, el sector del mercado al que desea dar respuesta y la manifestación de sus valores organizacionales.
+                    p.mb-0 Es la razón de ser de la empresa, el motivo por el cual existe. Así mismo, es la determinación de las funciones básicas que la empresa va a desempeñar en un entorno determinado para conseguir tal misión. En la misión se determinan las características del cliente a quien va dirigido todo el actuar de la organización, los productos o servicios que se brindarán. Es la declaración del compromiso que desarrollará dentro del ámbito comercial, es decir, la definición del producto o servicio, el sector del mercado al que desea dar respuesta y la manifestación de sus valores organizacionales.
                 .row.justify-content-center.mb-5
                   .col-sm-12.col-lg-6.bg15.p-4
                     p Las características que debe tener una misión son: 
